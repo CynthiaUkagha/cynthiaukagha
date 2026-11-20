@@ -7,6 +7,8 @@ Materials scientist. I make materials data you can trust, from atom-scale micros
 - ⚡ Energy materials: catalysts, batteries, CO₂ capture
 - 🏭 Previously: Toyota Research Institute · Argonne National Laboratory · ExxonMobil
 
-**Featured project:** [StrainScope](https://github.com/CynthiaUkagha/strainscope). Strain maps from atomic-resolution images that grade their own reliability.
+**Projects**
+- [ToolTrap](https://github.com/CynthiaUkagha/tooltrap): does an AI agent notice when a scientific tool gives a confident wrong answer?
+- [StrainScope](https://github.com/CynthiaUkagha/strainscope): strain maps from atomic-resolution images that grade their own reliability.
 
 [Website](https://cynthiaukagha.github.io) · [LinkedIn](https://www.linkedin.com/in/cynthiaukagha/)
