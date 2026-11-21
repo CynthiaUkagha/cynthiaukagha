@@ -15,4 +15,4 @@ Materials scientist. I make materials data you can trust, from atom-scale micros
 - [PhaseMapper](https://github.com/CynthiaUkagha/phasemapper): phase maps from combinatorial XRD that catch their own most common mistake.
 - [StrainScope](https://github.com/CynthiaUkagha/strainscope): strain maps from atomic-resolution images that grade their own reliability.
 
-[Website](https://cynthiaukagha.github.io) · [LinkedIn](https://www.linkedin.com/in/cynthiaukagha/)
+[Website](https://cynthiaukagha.github.io) · [LinkedIn](https://www.linkedin.com/in/onyinyeukagha/)
